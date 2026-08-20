@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Abu0211/Leetcode---problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/Abu0211/Leetcode---problems/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Abu0211/Leetcode---problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Divide and Conquer
 |  |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Abu0211/Leetcode---problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/Abu0211/Leetcode---problems/tree/master/0268-missing-number) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -25,5 +27,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Abu0211/Leetcode---problems/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Abu0211/Leetcode---problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Abu0211/Leetcode---problems/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Abu0211/Leetcode---problems/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Abu0211/Leetcode---problems/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
