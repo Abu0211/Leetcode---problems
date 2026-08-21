@@ -14,10 +14,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Abu0211/Leetcode---problems/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Abu0211/Leetcode---problems/tree/master/0215-kth-largest-element-in-an-array) |
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Abu0211/Leetcode---problems/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/Abu0211/Leetcode---problems/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/Abu0211/Leetcode---problems/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Abu0211/Leetcode---problems/tree/master/0215-kth-largest-element-in-an-array) |
@@ -73,4 +75,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Abu0211/Leetcode---problems/tree/master/0164-maximum-gap) |
+## Linked List
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Abu0211/Leetcode---problems/tree/master/0148-sort-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Abu0211/Leetcode---problems/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Abu0211/Leetcode---problems/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
