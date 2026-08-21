@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Abu0211/Leetcode---problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/Abu0211/Leetcode---problems/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Abu0211/Leetcode---problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0704-binary-search](https://github.com/Abu0211/Leetcode---problems/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Abu0211/Leetcode---problems/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/Abu0211/Leetcode---problems/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/Abu0211/Leetcode---problems/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/Abu0211/Leetcode---problems/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
