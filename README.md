@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Abu0211/Leetcode---problems/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/Abu0211/Leetcode---problems/tree/master/0179-largest-number) |
 ## Greedy
 |  |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Abu0211/Leetcode---problems/tree/master/0042-trapping-rain-water) |
+| [0125-valid-palindrome](https://github.com/Abu0211/Leetcode---problems/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/Abu0211/Leetcode---problems/tree/master/0148-sort-list) |
 ## Merge Sort
 |  |
