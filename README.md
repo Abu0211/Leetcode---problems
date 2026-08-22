@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Abu0211/Leetcode---problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Abu0211/Leetcode---problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Abu0211/Leetcode---problems/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/Abu0211/Leetcode---problems/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/Abu0211/Leetcode---problems/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
@@ -171,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Abu0211/Leetcode---problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Abu0211/Leetcode---problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/Abu0211/Leetcode---problems/tree/master/0643-maximum-average-subarray-i) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Abu0211/Leetcode---problems/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
