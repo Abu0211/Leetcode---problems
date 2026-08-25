@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Abu0211/Leetcode---problems/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/Abu0211/Leetcode---problems/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Abu0211/Leetcode---problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Abu0211/Leetcode---problems/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Abu0211/Leetcode---problems/tree/master/0042-trapping-rain-water) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Abu0211/Leetcode---problems/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/Abu0211/Leetcode---problems/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/Abu0211/Leetcode---problems/tree/master/0179-largest-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/Abu0211/Leetcode---problems/tree/master/0424-longest-repeating-character-replacement) |
@@ -196,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Abu0211/Leetcode---problems/tree/master/0075-sort-colors) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Abu0211/Leetcode---problems/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
