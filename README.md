@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/Abu0211/Leetcode---problems/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/Abu0211/Leetcode---problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Abu0211/Leetcode---problems/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/Abu0211/Leetcode---problems/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/Abu0211/Leetcode---problems/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Abu0211/Leetcode---problems/tree/master/0779-k-th-symbol-in-grammar) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Abu0211/Leetcode---problems/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Abu0211/Leetcode---problems/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Abu0211/Leetcode---problems/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/Abu0211/Leetcode---problems/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Abu0211/Leetcode---problems/tree/master/0779-k-th-symbol-in-grammar) |
 ## Sliding Window
