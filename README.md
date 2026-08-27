@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/Abu0211/Leetcode---problems/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/Abu0211/Leetcode---problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Abu0211/Leetcode---problems/tree/master/0268-missing-number) |
+| [0779-k-th-symbol-in-grammar](https://github.com/Abu0211/Leetcode---problems/tree/master/0779-k-th-symbol-in-grammar) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Abu0211/Leetcode---problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Binary Search
 |  |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Abu0211/Leetcode---problems/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Abu0211/Leetcode---problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Abu0211/Leetcode---problems/tree/master/0268-missing-number) |
+| [0779-k-th-symbol-in-grammar](https://github.com/Abu0211/Leetcode---problems/tree/master/0779-k-th-symbol-in-grammar) |
 ## String
 |  |
 | ------- |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Abu0211/Leetcode---problems/tree/master/0231-power-of-two) |
+| [0779-k-th-symbol-in-grammar](https://github.com/Abu0211/Leetcode---problems/tree/master/0779-k-th-symbol-in-grammar) |
 ## Sliding Window
 |  |
 | ------- |
