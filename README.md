@@ -260,4 +260,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Abu0211/Leetcode---problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0093-restore-ip-addresses](https://github.com/Abu0211/Leetcode---problems/tree/master/0093-restore-ip-addresses) |
+## Depth-First Search
+|  |
+| ------- |
+| [1042-flower-planting-with-no-adjacent](https://github.com/Abu0211/Leetcode---problems/tree/master/1042-flower-planting-with-no-adjacent) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1042-flower-planting-with-no-adjacent](https://github.com/Abu0211/Leetcode---problems/tree/master/1042-flower-planting-with-no-adjacent) |
+## Graph Theory
+|  |
+| ------- |
+| [1042-flower-planting-with-no-adjacent](https://github.com/Abu0211/Leetcode---problems/tree/master/1042-flower-planting-with-no-adjacent) |
+## Graph Coloring
+|  |
+| ------- |
+| [1042-flower-planting-with-no-adjacent](https://github.com/Abu0211/Leetcode---problems/tree/master/1042-flower-planting-with-no-adjacent) |
 <!---LeetCode Topics End-->
