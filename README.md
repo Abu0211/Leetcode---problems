@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Abu0211/Leetcode---problems/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Abu0211/Leetcode---problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Abu0211/Leetcode---problems/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/Abu0211/Leetcode---problems/tree/master/0136-single-number) |
 | [0164-maximum-gap](https://github.com/Abu0211/Leetcode---problems/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abu0211/Leetcode---problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/Abu0211/Leetcode---problems/tree/master/0179-largest-number) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Abu0211/Leetcode---problems/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Abu0211/Leetcode---problems/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Abu0211/Leetcode---problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Abu0211/Leetcode---problems/tree/master/0268-missing-number) |
