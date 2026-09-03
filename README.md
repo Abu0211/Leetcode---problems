@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Abu0211/Leetcode---problems/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Abu0211/Leetcode---problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Abu0211/Leetcode---problems/tree/master/0035-search-insert-position) |
+| [0041-first-missing-positive](https://github.com/Abu0211/Leetcode---problems/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Abu0211/Leetcode---problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Abu0211/Leetcode---problems/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/Abu0211/Leetcode---problems/tree/master/0074-search-a-2d-matrix) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abu0211/Leetcode---problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Abu0211/Leetcode---problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0041-first-missing-positive](https://github.com/Abu0211/Leetcode---problems/tree/master/0041-first-missing-positive) |
 | [0268-missing-number](https://github.com/Abu0211/Leetcode---problems/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/Abu0211/Leetcode---problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Abu0211/Leetcode---problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
