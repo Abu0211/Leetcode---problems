@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Abu0211/Leetcode---problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Abu0211/Leetcode---problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Abu0211/Leetcode---problems/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [1996-the-number-of-weak-characters-in-the-game](https://github.com/Abu0211/Leetcode---problems/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Abu0211/Leetcode---problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/Abu0211/Leetcode---problems/tree/master/0268-missing-number) |
 | [0324-wiggle-sort-ii](https://github.com/Abu0211/Leetcode---problems/tree/master/0324-wiggle-sort-ii) |
+| [1996-the-number-of-weak-characters-in-the-game](https://github.com/Abu0211/Leetcode---problems/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Abu0211/Leetcode---problems/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/Abu0211/Leetcode---problems/tree/master/0179-largest-number) |
 | [0324-wiggle-sort-ii](https://github.com/Abu0211/Leetcode---problems/tree/master/0324-wiggle-sort-ii) |
+| [1996-the-number-of-weak-characters-in-the-game](https://github.com/Abu0211/Leetcode---problems/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 ## Matrix
 |  |
 | ------- |
@@ -209,10 +212,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Abu0211/Leetcode---problems/tree/master/0042-trapping-rain-water) |
+| [1996-the-number-of-weak-characters-in-the-game](https://github.com/Abu0211/Leetcode---problems/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Abu0211/Leetcode---problems/tree/master/0042-trapping-rain-water) |
+| [1996-the-number-of-weak-characters-in-the-game](https://github.com/Abu0211/Leetcode---problems/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 ## Number Theory
 |  |
 | ------- |
