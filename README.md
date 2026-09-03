@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Abu0211/Leetcode---problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Abu0211/Leetcode---problems/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Abu0211/Leetcode---problems/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/Abu0211/Leetcode---problems/tree/master/0152-maximum-product-subarray) |
 | [0164-maximum-gap](https://github.com/Abu0211/Leetcode---problems/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abu0211/Leetcode---problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/Abu0211/Leetcode---problems/tree/master/0179-largest-number) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Abu0211/Leetcode---problems/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Abu0211/Leetcode---problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Abu0211/Leetcode---problems/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/Abu0211/Leetcode---problems/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/Abu0211/Leetcode---problems/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
