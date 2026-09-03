@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Abu0211/Leetcode---problems/tree/master/0050-powx-n) |
 | [0172-factorial-trailing-zeroes](https://github.com/Abu0211/Leetcode---problems/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/Abu0211/Leetcode---problems/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Abu0211/Leetcode---problems/tree/master/0258-add-digits) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Abu0211/Leetcode---problems/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Abu0211/Leetcode---problems/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Abu0211/Leetcode---problems/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/Abu0211/Leetcode---problems/tree/master/0509-fibonacci-number) |
