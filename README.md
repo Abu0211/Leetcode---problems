@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Abu0211/Leetcode---problems/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/Abu0211/Leetcode---problems/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/Abu0211/Leetcode---problems/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/Abu0211/Leetcode---problems/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Abu0211/Leetcode---problems/tree/master/0258-add-digits) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Abu0211/Leetcode---problems/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Abu0211/Leetcode---problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Abu0211/Leetcode---problems/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Abu0211/Leetcode---problems/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/Abu0211/Leetcode---problems/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/Abu0211/Leetcode---problems/tree/master/0509-fibonacci-number) |
 ## Stack
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Abu0211/Leetcode---problems/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Abu0211/Leetcode---problems/tree/master/0509-fibonacci-number) |
 ## Simulation
 |  |
