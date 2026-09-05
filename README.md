@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Abu0211/Leetcode---problems/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Abu0211/Leetcode---problems/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/Abu0211/Leetcode---problems/tree/master/0904-fruit-into-baskets) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Abu0211/Leetcode---problems/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Abu0211/Leetcode---problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Abu0211/Leetcode---problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Abu0211/Leetcode---problems/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Abu0211/Leetcode---problems/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Abu0211/Leetcode---problems/tree/master/0240-search-a-2d-matrix-ii) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Abu0211/Leetcode---problems/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1042-flower-planting-with-no-adjacent](https://github.com/Abu0211/Leetcode---problems/tree/master/1042-flower-planting-with-no-adjacent) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Abu0211/Leetcode---problems/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Graph Theory
 |  |
 | ------- |
