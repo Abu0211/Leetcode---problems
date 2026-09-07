@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Abu0211/Leetcode---problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Abu0211/Leetcode---problems/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/Abu0211/Leetcode---problems/tree/master/0303-range-sum-query-immutable) |
+| [0322-coin-change](https://github.com/Abu0211/Leetcode---problems/tree/master/0322-coin-change) |
 | [0324-wiggle-sort-ii](https://github.com/Abu0211/Leetcode---problems/tree/master/0324-wiggle-sort-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Abu0211/Leetcode---problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Abu0211/Leetcode---problems/tree/master/0560-subarray-sum-equals-k) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Abu0211/Leetcode---problems/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/Abu0211/Leetcode---problems/tree/master/0091-decode-ways) |
 | [0152-maximum-product-subarray](https://github.com/Abu0211/Leetcode---problems/tree/master/0152-maximum-product-subarray) |
+| [0322-coin-change](https://github.com/Abu0211/Leetcode---problems/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/Abu0211/Leetcode---problems/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/Abu0211/Leetcode---problems/tree/master/0322-coin-change) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/Abu0211/Leetcode---problems/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Abu0211/Leetcode---problems/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Graph Theory
@@ -352,4 +355,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Abu0211/Leetcode---problems/tree/master/0062-unique-paths) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Abu0211/Leetcode---problems/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Abu0211/Leetcode---problems/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
